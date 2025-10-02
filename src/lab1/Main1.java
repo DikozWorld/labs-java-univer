@@ -1,6 +1,8 @@
+package lab1;
+
 import java.io.*;
 
-public class Main {
+public class Main1 {
     public static void main(String[] args) {
         String text = "В 2024 году я написал 15 программ и прочитал 3 книги о Java. Это мой 1-й проект!";
 
