@@ -6,7 +6,7 @@ public class Main {
 
         analyzeText(text);
     }
-
+//тест
     public static void analyzeText(String text) {
         StringReader reader = new StringReader(text);
         StreamTokenizer tokenizer = new StreamTokenizer(reader);
